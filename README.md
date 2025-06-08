@@ -23,7 +23,7 @@ Bu çalışma, 8, 16 ve 32 bitlik veriler üzerinde Hamming SEC-DED algoritması
 ![resim1](screenshots/img1.png)
 > Girilen veriyi kodla ve belleğe yaz butonuna tıkladıktan sonra belleğe kaydolur.
 > Uygulama sadece 8, 16 veya 32 lik bitlerin girilmesine izin verir. Aksi takdirde uyarı ekranı gönderir.
-![resim2](screenshots/img2.png)
+![resim2](screenshots/img2.png)  
 ![resim6](screenshots/img6.png)
 > Arayüzün sol alt köşesinde bulunan girdilere adres ve bit konumu girilir.
 > Eğer girdiğiniz adres ya da bit konumu bellekte bulunmuyorsa hata mesajı gönderir.
